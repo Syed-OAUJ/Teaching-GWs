@@ -11,5 +11,5 @@ Lectures given on GWs:
 
 Lec notes and Mathematica scripts to play around with:
 
-*ChirpMass_Scaling
-*ChirpMass_1PN corrections
+* ChirpMass_Scaling
+* ChirpMass_1PN corrections
